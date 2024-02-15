@@ -1,0 +1,4 @@
+import = [
+    "/home/thg/.config/alacritty/main.toml", 
+    "/home/thg/.config/alacritty/custom.toml"
+]
