@@ -1,4 +1,4 @@
 import = [
-    "main.toml", 
-    "custom.toml"
+    "~/.config/alacritty/main.toml", 
+    "~/.config/alacritty/custom.toml"
 ]
