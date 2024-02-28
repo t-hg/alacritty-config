@@ -1,3 +1,7 @@
+[window.dimensions]
+columns = 120
+lines = 30
+
 [colors.bright]
 black = "#6272a4"
 blue = "#7face2"
